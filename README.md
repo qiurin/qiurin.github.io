@@ -5,8 +5,6 @@
 ### 4
 ### 5
 
-You can use the [110P1V-7.67G](BHAMFHNNOD733EN4MX4DPME2ZRAZHVIO) to maintain and preview the content for your website in Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
