@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
-<font size="6" color="red">ZIG6GM6YYZKSQY55ISXHT64CXGKVH463</font>
+<font size="6" color="red">Z</font>
+<font size="4" color="blue">I</font>
+<font size="7" color="green">G6GM6YY</font>
+<font size="5" color="purple">ZK</font>
+<font size="3" color="orange">SQY5</font>
+<font size="6" color="gray">5</font>
+<font size="4" color="blue">ISXHT</font>
+<font size="7" color="green">64C</font>
+<font size="5" color="purple">XG</font>
+<font size="3" color="orange">KVH</font>
+<font size="6" color="red">463</font>
 
 ### Markdown
 
